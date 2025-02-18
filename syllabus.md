@@ -86,6 +86,13 @@ Eviteremmo il modulo 0, perché si tratta di argomenti già di nostra conoscenza
 - Addestramento di una CNN per il rilevamento di anomalie polmonari con dataset open-source (NIH Chest X-rays).
 - Implementazione di tecniche di segmentazione per immagini ecografiche.
 - Applicazione di XAI per spiegare le decisioni del modello.
+
+  Sul modulo 2 proporremmo uno studio su immagini ecografiche piuttosto che uno studio su immagini raggi X. Per esempio, da sottoporre all’istruttore quanto segue:
+
+  Segmentazione e classificazione benigna/maligna di lesioni al seno: https://qamebi.com/breast-ultrasound-images-database/
+  Classificazione delle proiezioni fetali: https://zenodo.org/records/3904280
+  Dataset da utilizzare come base per il transfer learning: https://paperswithcode.com/dataset/us-4 
+
 ---
 
 ### Modulo 3: Analisi dei Campioni di Alito Respirato (17 ore)
